@@ -25,7 +25,6 @@ void main()
     int l2 = readln().chomp.to!int;
     write("Podaj a/b + c/?: ");
     int m2 = readln().chomp.to!int;
-    
     int m3 = nww(m1,m2);
     int l3 = ((m3 / l1*m1).to!int + (m3 / l2*m2).to!int) / m3;
     writeln("= ",l3,"/",m3);
