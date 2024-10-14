@@ -3,7 +3,7 @@ Stwórz program który stworzy tablice liczb pierwszych, użyj Sita Eratostenesa
 Zadanie 2.
 Stwórz program który wczyta od użytkownika 10 liczb, program ma znaleść liczby doskonałe i je zwrócić
 Zadanie 3.
-Stwórz program który wypisze n liczb bliźniaczych
+Stwórz program który wypisze n par liczb bliźniaczych
 Zadaie 4.
 Stwórz program który sprawdzi czy liczba podana przez użytkownika jest wesoła
 Zadanie 5.
